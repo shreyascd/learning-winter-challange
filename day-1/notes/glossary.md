@@ -1,0 +1,11 @@
+# Day 1 glossary
+- **POST** - Power-On Self Test run by firmware at startup.
+- **MBR** - Master Boot Record, first 512 bytes of a legacy-bootable disk.
+- **GPT** - GUID Partition Table, modern partition scheme used with UEFI.
+- **ESP** - EFI System Partition (FAT32) holding .efi bootloaders.
+- **Bootloader** - program that loads the OS kernel into RAM (GRUB, Windows Boot Manager).
+- **Kernel** - core of the OS: memory, processes, drivers.
+- **Secure Boot** - UEFI feature that only runs signed boot components.
+- **Bootkit** - malware that infects the boot process, running before the OS.
+- **Register / Cache** - tiny, very fast memory inside the CPU.
+- **Volatile memory** - loses data without power (RAM).
