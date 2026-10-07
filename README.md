@@ -14,3 +14,4 @@ day-N/
 
 ## Progress
 - [x] Day 1 - How a computer works: CPU, RAM, disk, boot chain
+- [x] Day 2 - Operating systems: kernel, processes; Windows vs Linux vs macOS
